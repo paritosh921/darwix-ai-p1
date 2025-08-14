@@ -4,6 +4,10 @@
 
 A sophisticated AI-powered tool that transforms harsh, critical code review comments into empathetic, educational feedback that encourages learning and growth.
 
+![Application Interface](image.png)
+
+*The Empathetic Code Reviewer in action - transforming harsh feedback into constructive guidance*
+
 ## 🌟 Features
 
 ### Core Functionality
@@ -46,6 +50,10 @@ A sophisticated AI-powered tool that transforms harsh, critical code review comm
 
 4. **Open your browser** and navigate to `http://localhost:8501`
 
+![Application Setup](image%20copy.png)
+
+*The application interface showing the configuration sidebar and input/output panels*
+
 ## 📖 Usage Guide
 
 ### 1. API Key Setup
@@ -72,6 +80,10 @@ The application expects JSON input with two keys:
 3. Click "🚀 Generate Empathetic Review"
 4. View the transformed feedback in the output panel
 5. Download the report as a Markdown file if needed
+
+![Input Processing](image%20copy%202.png)
+
+*Real-time JSON validation and parsed data preview in action*
 
 ## 📊 Example Output
 
