@@ -130,39 +130,6 @@ Dwarix_AI/
 - Export functionality
 
 
-## 🚨 Troubleshooting
-
-### Common Issues
-
-**"Invalid JSON format" error**
-- Ensure proper JSON syntax with double quotes
-- Use the "Load Example Data" button to see correct format
-
-**"Error generating review" message**
-- Check your OpenAI API key is valid and has sufficient credits
-- Ensure stable internet connection
-- Try refreshing the page if the issue persists
-
-**Application won't start**
-- Verify Python 3.7+ is installed
-- Install dependencies: `pip install -r requirements.txt`
-- Check no other application is using port 8501
-
-## 📞 Support & Feedback
-
-For issues, suggestions, or contributions:
-- Check existing issues and solutions in this README
-- Contact the development team
-- Submit feature requests for future improvements
-
-## 🏆 Hackathon Submission Notes
-
-**Implementation Approach**: 
-- Focused on sophisticated prompt engineering to maximize AI output quality (45% of scoring)
-- Implemented all suggested "stand out" features for competitive advantage
-- Prioritized user experience with intuitive Streamlit interface
-- Comprehensive error handling and input validation
-
 **Key Differentiators**:
 1. **Contextual severity assessment** - AI adjusts tone based on harshness of original comments
 2. **Intelligent resource linking** - Automatically suggests relevant Python documentation
